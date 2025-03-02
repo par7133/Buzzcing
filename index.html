@@ -90,7 +90,7 @@
 		//  return;  
 		//}	   	
 		passw = encryptSha2( $("#Password").val() + $("#Salt").val());
-		msg = "<?PHP echo(getResource0("Please set your hash in the config file with this value", $lang, "/js/home-js.php"));?>:";
+		msg = "Please set your hash in the config file with this value:";
 		alert(msg + "\n\n" + passw);	
 	}
 	  
