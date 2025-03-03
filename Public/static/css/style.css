@@ -86,6 +86,7 @@ body {
   font-size:15px;
   font-family:'Press Start 2P';
   color:#000000;
+  background-color: #ead09e;
   background-image: url('/res/notation3.png');
   background-repeat: repeat;  
 }
@@ -110,7 +111,7 @@ body {
   padding:15px;
   white-space: initial;
   overflow: hidden;
-  background-image:url('/res/dogborg.png'); 
+  background-image:url('/res/buzzbot.png'); 
   background-repeat: no-repeat; 
   background-size: 75px; 
   background-position: top 10px right 10px;
@@ -822,7 +823,7 @@ body {
   background:#FFFFFF;
   font-size:12px;
   padding:10px;
-/*height: 80px;
-  max-height: 80px;*/
+ /* height: 80px;
+  max-height: 80px;/*
   overflow-y:hidden;
 }

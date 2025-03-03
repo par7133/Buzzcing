@@ -23,7 +23,7 @@
  * Buzzcing configuration settings.
  *
  * @author Daniele Bonini <my25mb@aol.com>
- * @copyrights (c) 2021, 2026 5 Mode     
+ * @copyrights (c) 2021, 2026, 5 Mode     
  */
 
 define('DEBUG', false);
