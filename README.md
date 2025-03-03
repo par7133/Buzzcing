@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Musicing
+# Buzzcing
 
 Hello and welcome to Buzzcing!<br>
 	  
