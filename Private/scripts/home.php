@@ -514,7 +514,7 @@
 
   <div class="header" style="margin-top:18px;margin-bottom:18px;">
         <div style="float:left">
-             &nbsp;<a href="http://buzzcing.5mode-foss.eu" target="_self" style="color:#FFFFFF; text-decoration: none;">&nbsp;<img src="/res/AFlogo.png" align="middle" style="position:relative;top:-2px;width:22px;">&nbsp;Buzzcing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/par7133/Buzzcing" style="color:#FFFFFF;"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:posta@elettronica.lol" style="color:#FFFFFF;"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:#FFFFFF;height:27px;text-decoration:none;">&nbsp;&nbsp;support&nbsp;&nbsp;</a>
+             &nbsp;<a href="http://buzzcing.5mode-foss.eu" target="_self" style="color:#FFFFFF; text-decoration: none;">&nbsp;<img src="/res/AFlogo.png" align="middle" style="position:relative;top:-2px;width:22px;">&nbsp;Buzzcing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/par7133/Buzzcing" style="color:#FFFFFF;"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:code@gaox.io" style="color:#FFFFFF;"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:#FFFFFF;height:27px;text-decoration:none;">&nbsp;&nbsp;support&nbsp;&nbsp;</a>
         </div>
    </div>
   
@@ -587,7 +587,7 @@
    </div> -->
    <div id="header" class="header" style="margin-top:18px;margin-bottom:18px;">
         <div style="float:left">
-             &nbsp;<a href="http://buzzcing.5mode-foss.eu" target="_self" style="color:#000000; text-decoration: none;">&nbsp;<img src="/res/AFlogo.png" align="middle" style="position:relative;top:-2px;width:22px;">&nbsp;Buzzcing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/par7133/Buzzcing" style="color:#000000;"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:posta@elettronica.lol" style="color:#000000;"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:#000000;height:27px;text-decoration:none;">&nbsp;&nbsp;support&nbsp;&nbsp;</a>
+             &nbsp;<a href="http://buzzcing.5mode-foss.eu" target="_self" style="color:#000000; text-decoration: none;">&nbsp;<img src="/res/AFlogo.png" align="middle" style="position:relative;top:-2px;width:22px;">&nbsp;Buzzcing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/par7133/Buzzcing" style="color:#000000;"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:code@gaox.io" style="color:#000000;"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:#000000;height:27px;text-decoration:none;">&nbsp;&nbsp;support&nbsp;&nbsp;</a>
              <?PHP if(($CURRENT_VIEW === PRIVATE_VIEW)): ?>
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="adminView()" style="color:#000000;">admin mode</a>
              <?PHP endif; ?>
