@@ -51,7 +51,7 @@ define('APP_AJAX_PATH', "/var/www/YourWebApp/Private/scripts_ajax");
 define('APP_ERROR_PATH', "/var/www/YourWebApp/Private/error");
 define('APP_DATA_PATH', "/var/www/YourWebApp/Private/data");
 define('APP_LICENSE', <<<LICENSETEXT
-Copyright (c) 2016, 2026 5 Mode
+Copyright (c) 2016, 2028 NuMode
 All rights reserved.
 
 This file is part of Buzzcing.
@@ -107,7 +107,7 @@ $CONFIG = [
       'ERROR_PATH' => "/var/www/YourWebApp/Private/error",
       'DATA_PATH' => "/var/www/YourWebApp/Private/data",
       'LICENSE' => <<<LICENSETEXT
-Copyright (c) 2016, 2026 5 Mode
+Copyright (c) 2016, 2028 NuMode
 All rights reserved.
 
 This file is part of Buzzcing.
