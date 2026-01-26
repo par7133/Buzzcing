@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://buzzcing.5mode-foss.eu">
+    <a href="https://buzzcing.numode-foss.eu">
         <img src="./Public/static/res/AFlogo.png" width="188" title="Buzzcing" alt="Buzzcing">
     </a>
 </p>
@@ -28,7 +28,7 @@ Song file nomenclature: "Company_Name~Listing Title.mp3"
 
 You can access your avatar by http://yourdomain.com/<your_avatar>. Login with the password for the admin view. Drag-n-drop all your resources in the browser window.<br>
 
-For any need of software additions, plugins and improvements please write to <a href="mailto:info@5mode.com">info@5mode.com</a>  
+For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>  
 
 To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.  
 
